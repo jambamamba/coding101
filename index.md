@@ -1,5 +1,7 @@
 ## Coding 101
 
+### Automation
+
 Coding helps us automate tasks. No matter who you are, an engineer, a doctor, a nurse, a teacher, a scientist, a philospher, a home maker, anybody can use coding to do mundane tasks. This helps us be more efficient and frees up our time for something more fun we would rather do.
 
 <img src="resources/automation.png"/>
