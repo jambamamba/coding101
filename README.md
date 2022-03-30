@@ -1,2 +1,1 @@
-# coding101
-Learn to Code
+Coding101
