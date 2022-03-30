@@ -36,7 +36,7 @@ Above we have a function definiton. The input can be anything, denoted by x. The
 def multiply(x):
     return x * 3
 
-multiple(2)
+multiply(2)
 ```
 
 We added a *call* to our function. This is same thing as running the machine. We are asking it to take input 2 and perform the operation.
@@ -47,7 +47,7 @@ But what about the output?
 def multiply(x):
     return x * 3
 
-y = multiple(2)
+y = multiply(2)
 ```
 
 Now the output is stored in y. 
@@ -58,16 +58,19 @@ Great. Next we can print the value of our output to see if it worked.
 def multiply(x):
     return x * 3
 
-y = multiple(2)
+y = multiply(2)
 print(y)
 ```
 
 Now print() is a built in function and we didn't need to define it. It basically prints whatever is in between the parentheis on to your screen. How it does that, at this point, we don't care. It just does it and we didn't have to define print().
 
 
-At this point, try out running your own Python code. There are many online Python editors. [Try this one](https://replit.com/languages/python3) or search for another.
+Now try running your own Python code. There are many online Python editors. [Try this one](https://replit.com/languages/python3).
 
-Try writing a function that adds 3, and **call** your function, then print its value.
+### Excersize ###
+
+* Try writing a function that adds 3, and **call** your function, then print its value.
+* Write a function that divides by 3, and **call** your function, then print its value.
 
 #### Important Tip ####
 
