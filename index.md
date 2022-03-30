@@ -69,8 +69,9 @@ Now try running your own Python code. There are many online Python editors. [Try
 
 ### Excersize ###
 
-* Try writing a function that adds 3, and **call** your function, then print its value.
-* Write a function that divides by 3, and **call** your function, then print its value.
+- Try writing a function that adds 3, and **call** your function, then print its value.
+- Write a function that subtracts by 3, and **call** your function, then print its value.
+- Write a function that divides by 3, and **call** your function, then print its value.
 
 #### Important Tip ####
 
