@@ -2,6 +2,8 @@
 
 Coding helps us automate tasks. No matter who you are, an engineer, a doctor, a nurse, a teacher, a scientist, a philospher, a home maker, anybody can use coding to do mundane tasks. This helps us be more efficient and frees up our time for something more fun we would rather do.
 
+<img src="resources/automation.png"/>
+
 Fun fact: [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law) states that computer power double every two years. Yet we find the computer's today still too slow to do the tasks we want them to perform!
 
 ### Functions
