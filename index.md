@@ -65,3 +65,7 @@ print(y)
 Now print() is a built in function and we didn't need to define it. It basically prints whatever is in between the parentheis on to your screen. How it does that, at this point, we don't care. It just does it and we didn't have to define print().
 
 
+At this point, try out running your own Python code. There are many online Python editors. [Try this one](https://replit.com/languages/python3) or search for another.
+
+Try writing a function that adds 3, and *call* your function, then print its value.
+
