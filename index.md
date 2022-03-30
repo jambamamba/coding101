@@ -26,5 +26,42 @@ Functions in coding are similar.
 Python is one of the easiest programming language, and there are many more that are pretty dense. Python is generally used by people who are not programmers, so let's start with some Python code.
 
 `
-Hello world
+def multiply(x):
+    return x * 3
 `
+
+Above we have a function definiton. The input can be anything, denoted by x. The output will be x times 3.
+
+`
+def multiply(x):
+    return x * 3
+
+multiple(2)
+`
+
+We added a *call* to our function. This is same thing as running the machine. We are asking it to take input 2 and perform the operation.
+
+But what about the output?
+
+`
+def multiply(x):
+    return x * 3
+
+y = multiple(2)
+`
+
+Now the output is stored in y. 
+
+Great. Next we can print the value of our output to see if it worked.
+
+`
+def multiply(x):
+    return x * 3
+
+y = multiple(2)
+print(y)
+`
+
+Now print() is a built in function and we didn't need to define it. It basically prints whatever is in between the parentheis on to your screen. How it does that, at this point, we don't care. It just does it and we didn't have to define print().
+
+
