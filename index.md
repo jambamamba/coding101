@@ -19,4 +19,10 @@ Functions in coding are similar.
 <img src="resources/function.png"/>
 
 
+### Python
 
+Python is one of the easiest programming language, and there are many more that are pretty dense. Python is generally used by people who are not programmers, so let's start with some Python code.
+
+`
+Hello world
+`
