@@ -67,8 +67,8 @@ Now print() is a built in function and we didn't need to define it. It basically
 
 At this point, try out running your own Python code. There are many online Python editors. [Try this one](https://replit.com/languages/python3) or search for another.
 
-Try writing a function that adds 3, and *call* your function, then print its value.
+Try writing a function that adds 3, and **call** your function, then print its value.
 
-**Important Tips**
+#### Important Tip ####
 
 In Python, indentation is important. If you don't indent a line of code, the program will not run. Note the line starting with *def* has no indentation. The later lines are indented by one tab. Any lines tabbed this way are part of the function. Any lines not indented, are not part of the function
