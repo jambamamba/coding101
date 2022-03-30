@@ -14,7 +14,7 @@ Take the example of a laundry machine. You put dirty clothes in it (the input), 
 
 Functions in coding are similar.
 
-<img src="resources/functions.png"/>
+<img src="resources/function.png"/>
 
 
 
