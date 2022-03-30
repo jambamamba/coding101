@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Coding 101
 
-You can use the [editor on GitHub](https://github.com/jambamamba/coding101/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Coding helps us automate tasks. No matter who you are, an engineer, a doctor, a nurse, a teacher, a scientist, a philospher, a home maker, anybody can use coding to do mundane tasks. This helps us be more efficient and frees up our time for something more fun we would rather do.
+
+Fun fact: [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law) states that computer power double every two years. Yet we find the computer's today still too slow to do the tasks we want them to perform!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Functions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A computer program is a set of instructions for the machine to perform. Functions are the building blocks in a computer program. They are like Lego bricks you can use to build something big.
 
-```markdown
-Syntax highlighted code block
+In middle school you might have done functions in Math class. A function is basically a machine that takes some inputs, does some operation on those inputs, and returns some output.
 
-# Header 1
-## Header 2
-### Header 3
+Take the example of a laundry machine. You put dirty clothes in it (the input), you run the machine, and you get clean clothes (the output).
 
-- Bulleted
-- List
+Functions in coding are similar.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jambamamba/coding101/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
