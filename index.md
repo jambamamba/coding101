@@ -18,7 +18,7 @@ Take the example of a laundry machine. You put dirty clothes in it (the input), 
 
 Functions in coding are similar.
 
-<img style="width:50%;" src="resources/function.png"/>
+<img style="width:25%;" src="resources/function.png"/>
 
 
 ### Python
